@@ -35,7 +35,7 @@ class Directory(Resource):
             # "revokeCert": not offered
             # optional: meta:{termsOfService"",website"",caaIdentities[""],externalAccountRequired?}
             "meta": {
-                "website": "https://acme.htools.work",
+                "website": "https://acme.slyfi.com",
             }
         }
 
